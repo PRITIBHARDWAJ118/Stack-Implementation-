@@ -21,7 +21,7 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 * Simple Implementation: Stack using an array is straightforward and easy to implement.
 * Fast Access: Accessing an element (top of the stack) is very efficient because it’s a direct array access.
 
-4.Disadvantages:
+4. Disadvantages:
  *Fixed Size: The maximum size of the stack must be defined in advance, which can lead to inefficiency if the stack grows beyond this size (leading to overflow) or underutilized memory if the stack is too large.
 
 ## Code:
